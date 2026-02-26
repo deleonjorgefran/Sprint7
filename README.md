@@ -17,3 +17,4 @@ Tecnologías utilizadas:
     - Plotly Express
     - nbformat
 
+El enlace a render es: https://sprint7-jxub.onrender.com
